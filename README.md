@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://hareshku.github.io/HareshKumar)
 - 🔭 I’m currently working on: **Profile Building**
-- 🌱 I’m currently learning: **Backend**
+- 🌱 I’m currently exploring: **New technologies**
 - 👯 I’m looking to collaborate on: **Any Front-end or Backend projects or join Hackathons**
 - 💬 Ask me about: **MERN, Java, Python, Collaboration, Tech Support**
 - 😄 Pronouns: **Haresh**
