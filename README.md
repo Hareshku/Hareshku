@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Haresh Kumar
+# 💫 Hi 👋, I'm Haresh
 **A passionate Software Engineer || MERN Stack || Coder || Python || AI Enthusiasts ||**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://hareshku.github.io/HareshKumar)
