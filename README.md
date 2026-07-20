@@ -2,10 +2,10 @@
 **A passionate Software Engineer || MERN Stack || Coder || Python || AI Enthusiasts ||**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://hareshku.github.io/HareshKumar)
-- 🔭 I’m currently working on: **Profile Building**
-- 🌱 I’m currently exploring: **New technologies**
+- 🔭 I’m currently working on: **AI, Data Science, AI for software security, AI for software Engineering, software engineering**
+- 🌱 I’m currently Looking: **MS/PhD Position**
 - 👯 I’m looking to collaborate on: **Any Front-end or Backend projects or join Hackathons**
-- 💬 Ask me about: **MERN, Java, Python, Collaboration, Tech Support**
+- 💬 Ask me about: **Research work, MERN, Java, Python, Collaboration, Tech Support**
 - 😄 Pronouns: **Haresh**
   
 ## 🌐 Socials:
