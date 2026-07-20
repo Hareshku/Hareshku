@@ -29,7 +29,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-iota-lilac.vercel.app?user=Hareshku&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hareshku&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hareshku&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hareshku&limit=5&theme=dark&combine_all_yearly_contributions=true)
