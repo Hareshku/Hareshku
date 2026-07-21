@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hareshku&show_icons=true&locale=en" alt="hareshku" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hareshku&" alt="hareshku" /></p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/hareshku" alt="Haresh's Github chart" />
+</p>
